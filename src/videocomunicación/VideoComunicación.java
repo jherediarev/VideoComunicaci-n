@@ -32,7 +32,7 @@ public class VideoComunicación {
 
      public static void main(String[] args) {
          
-         VideoComunicación miVideoComunicación= new VideoComunicación("Meet", 50, 7, "Libre", 18);
+         VideoComunicación miVideoComunicación= new VideoComunicación("Meet", 100, 4000, "Libre", 5);
             System.out.println(calidad());
     }
      
